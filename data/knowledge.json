@@ -1,0 +1,14 @@
+{
+  "greeting": {
+    "patterns": ["hello", "hi", "yo", "sup"],
+    "weight": 1.0
+  },
+  "android_help": {
+    "patterns": ["android", "aide", "gradle", "manifest"],
+    "weight": 1.5
+  },
+  "default": {
+    "patterns": [],
+    "weight": 0
+  }
+}
